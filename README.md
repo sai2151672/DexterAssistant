@@ -74,26 +74,6 @@ This makes it easy to extend Dexter’s capabilities without modifying the sourc
 
 ---
 
-## Screenshots
-
-To include images in this README, create an `assets` folder in your repository and add your images there.
-
-Example:
-
-```md
-![Dexter UI](assets/dexter-ui.png)
-```
-
-For more control over layout:
-
-```html
-<p align="center">
-  <img src="assets/dexter-ui.png" width="600"/>
-</p>
-```
-
----
-
 ## Tech Stack
 
 * C#
